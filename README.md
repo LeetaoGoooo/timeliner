@@ -17,7 +17,7 @@ script
 <script src="http://luopq.com/demo/lib/jquery-1.10.2.min.js"></script>
 <script src="../src/timeliner.js"></script>
 <script>
-    var timeliner = $('#timeliner').pager();
+    var timeliner = $('#timeliner').timeliner();
 </script>
 ```
 
